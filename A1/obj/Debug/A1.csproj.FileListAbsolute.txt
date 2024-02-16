@@ -1,8 +1,0 @@
-C:\Users\DSU\source\repos\Gamerplayer22\csc-455\A1\bin\Debug\A1.exe.config
-C:\Users\DSU\source\repos\Gamerplayer22\csc-455\A1\bin\Debug\A1.exe
-C:\Users\DSU\source\repos\Gamerplayer22\csc-455\A1\bin\Debug\A1.pdb
-C:\Users\DSU\source\repos\Gamerplayer22\csc-455\A1\obj\Debug\A1.csproj.AssemblyReference.cache
-C:\Users\DSU\source\repos\Gamerplayer22\csc-455\A1\obj\Debug\A1.csproj.SuggestedBindingRedirects.cache
-C:\Users\DSU\source\repos\Gamerplayer22\csc-455\A1\obj\Debug\A1.csproj.CoreCompileInputs.cache
-C:\Users\DSU\source\repos\Gamerplayer22\csc-455\A1\obj\Debug\A1.exe
-C:\Users\DSU\source\repos\Gamerplayer22\csc-455\A1\obj\Debug\A1.pdb
